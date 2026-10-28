@@ -1,0 +1,6 @@
+{
+  "name": "Smart FYP Scope & Uniqueness Validator",
+  "description": "AI-powered Final Year Project uniqueness scorer, smart upgrade engine, system architecture blueprint generator, and defense simulator for CS and Engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
